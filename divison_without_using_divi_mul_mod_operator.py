@@ -1,0 +1,12 @@
+a=input()
+a=a.split()
+count=0
+divisor=int(a[1])
+dividend=int(a[0])
+if(divisor>dividend):
+ count=0
+else:
+ while(dividend!=0):
+  dividend=dividend-divisor
+  count=count+1
+print(count)
