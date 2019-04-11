@@ -1,4 +1,4 @@
-n=int(input())
+m=int(input())
 a=input()
 a=a.split()
 k=[]
