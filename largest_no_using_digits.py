@@ -1,9 +1,9 @@
 n=int(input())
 a=input()
 b=a.split()
-c=set(b)
 s=""
-for i in range(0,len(c)):
- s=s+str(max(c))
- c.remove(max(c))
-print(s)
+for i in range(0,len(b)):
+ s=s+str(max(b))
+ b.remove(max(b))
+p=int(s)
+print(p*1)
