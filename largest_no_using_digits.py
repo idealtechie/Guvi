@@ -1,3 +1,4 @@
+n=int(input())
 a=input()
 b=a.split()
 c=set(b)
