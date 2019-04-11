@@ -1,3 +1,4 @@
+n=int(input())
 a=input()
 a=a.split()
 k=[]
