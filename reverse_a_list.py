@@ -1,4 +1,4 @@
-m=int(input())
-a=input()
-a=a.split()
-print("->".join(a[::-1]))
+n=int(input())
+b=input()
+b=b.split()
+print("->".join(b[::-1]))
