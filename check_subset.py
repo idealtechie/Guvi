@@ -9,6 +9,6 @@ for i in c:
         flag=0
         break
 if(flag==0):
-    print("No")
+    print("NO")
 else:
     print("YES")
