@@ -8,7 +8,7 @@ for i in c:
     if(i not in b):
         flag=0
         break
-if(flag=="0"):
+if(flag==0):
     print("No")
 else:
     print("YES")
