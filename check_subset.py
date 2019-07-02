@@ -1,4 +1,4 @@
-a=input()
+n=input()
 b=input()
 b=b.split()
 c=input()
